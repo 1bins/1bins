@@ -1,4 +1,4 @@
-**😜 자주쓰는 gitmoji**
+**😜 자주 사용하는 gitmoji**
 ```
 🎉 tada | 🌱 seedling | ✨ sparkles | 🔨 hammer | 📝 memo
 🔧 wrench | 🍱 bento | 💄 lipstick | 📱 iphone | 💫 dizzy | 💡 bulb
